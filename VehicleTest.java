@@ -18,7 +18,7 @@ class Vehicle {
         System.out.println("Brand: " + brand);
         System.out.println("Model: " + model);
         System.out.println("Year: " + year);
-        System.out.println("Base Price: ₹" + basePrice);
+        System.out.println("Base Price: " + basePrice);
     }
 
     double calculateResaleValue() {
